@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CESYS": {
+      "commandName": "Project",
+      "commandLineArgs": "360000"
+    }
+  }
+}

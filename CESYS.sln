@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CESYS", "CESYS\CESYS.csproj", "{32D83FA4-1C48-4112-9BEC-442497B9595B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32D83FA4-1C48-4112-9BEC-442497B9595B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32D83FA4-1C48-4112-9BEC-442497B9595B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32D83FA4-1C48-4112-9BEC-442497B9595B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32D83FA4-1C48-4112-9BEC-442497B9595B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {272AC020-F722-4CBD-856F-1A3140E9120F}
+	EndGlobalSection
+EndGlobal
